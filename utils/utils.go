@@ -6,7 +6,7 @@ import (
 	"log"
 	"strings"
 
-	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
+	tgbotapi "github.com/Yeweiyang66/telegram-bot-api/v5"
 	"yohann/tgNetDisc/conf"
 )
 
